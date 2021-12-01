@@ -22,9 +22,6 @@
 
 
 
-<br />
-<br />
-
 ### 📕 Latest Personal Projects 
 
 <!-- BLOG-POST-LIST:START -->
