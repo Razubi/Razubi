@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/github/followers/Razubi?logo=Github&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 ## I'm a Student, Developer, and Gamer!!
 
-- 🌱 I’m currently learning C, Unity.
+- 🌱 I’m currently learning C, Rust And TypeScript.
 - 👯 I’m looking to collaborate with other Developers.
 - 🥅 2022 Goals: Work More On Razberry OS.
 - ⚡ Fun fact: I like Basketball And Java Programming.
