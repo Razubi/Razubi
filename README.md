@@ -1,3 +1,5 @@
+[![Razubi's GitHub Banner](./assets/GitHubHeader.png)](https://razubi.github.io/RazubiPortfolio/)
+
 ### Hi there, I'm Matthew - aka [Razubi][website] 👋 
 
 [![Website](https://img.shields.io/website?down_color=red&down_message=Down&logo=R&style=for-the-badge&up_message=Active&url=https%3A%2F%2Frazubi.github.io%2FRazubiPortfolio%2F)](https://razubi.github.io/RazubiPortfolio/)
