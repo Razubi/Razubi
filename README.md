@@ -63,4 +63,4 @@
 [os]: https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf
 [mongo]: https://www.mongodb.com/
 
-![Razubi's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Razubi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Razubi&show_icons=true)
