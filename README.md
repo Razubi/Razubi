@@ -65,6 +65,6 @@
 
 ![Razubi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Razubi&show_icons=true&theme=dracula)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Razubi&repo=RazubiPortfolio&theme=dracula)](https://github.com/Razubi/RazubiPortfolio)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Razubi)](https://github.com/Razubi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Razubi&theme=dracula)](https://github.com/Razubi/github-readme-stats)
 
 
