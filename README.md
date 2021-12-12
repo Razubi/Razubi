@@ -1,4 +1,4 @@
-[![Razubi's GitHub Banner](./assets/GitHubHeader.png)](https://razubi.github.io/RazubiPortfolio/)
+[![Razubi's GitHub Banner](./GitHubHeader.png)](https://razubi.github.io/RazubiPortfolio/)
 
 ### Hi there, I'm Matthew - aka [Razubi][website] 👋 
 
