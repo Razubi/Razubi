@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning C, Rust And TypeScript.
 - 👯 I’m looking to collaborate with other Developers.
 - 🥅 2022 Goals: Work More On Razberry OS.
-- ⚡ Fun fact: I like Basketball And Java Programming.
+- ⚡ Fun fact: I like Basketball And Rust Programming.
 
 
 ### 👽 Languages and Tools:
