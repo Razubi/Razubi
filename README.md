@@ -1,4 +1,3 @@
-
 ### Hi there, I'm Matthew - aka [Razubi][website] 👋 
 
 [![Website](https://img.shields.io/website?down_color=red&down_message=Down&logo=R&style=for-the-badge&up_message=Active&url=https%3A%2F%2Frazubi.github.io%2FRazubiPortfolio%2F)](https://razubi.github.io/RazubiPortfolio/)
@@ -65,7 +64,6 @@
 [mongo]: https://www.mongodb.com/
 
 ![Razubi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Razubi&show_icons=true&theme=dracula)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Razubi&repo=minecraft-python&theme=dracula)](https://github.com/Razubi/minecraft-python)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Razubi&repo=RazubiPortfolio&theme=dracula)](https://github.com/Razubi/RazubiPortfolio)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Razubi&theme=dracula)](https://github.com/Razubi/github-readme-stats)
 
