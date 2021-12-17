@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?down_color=red&down_message=Down&logo=R&style=for-the-badge&up_message=Active&url=https%3A%2F%2Frazubi.github.io%2FRazubiPortfolio%2F)](https://razubi.github.io/RazubiPortfolio/)
 [![Twitter Follow](https://img.shields.io/github/followers/Razubi?logo=Github&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
-## I'm a Student, Developer, and Gamer!!
+## I'm a Student, Developer !!
 
 - 🌱 I’m currently learning C, Rust And TypeScript.
 - 👯 I’m looking to collaborate with other Developers.
