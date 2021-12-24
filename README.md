@@ -16,6 +16,7 @@
 - [Angular][ang]
 - [OS Guide][os]
 - [MongoDB][mongo]
+- [Visual Studio 19][VS19]
 
 
 
@@ -58,6 +59,8 @@
 [ang]: https://angularjs.org/
 [os]: https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf
 [mongo]: https://www.mongodb.com/
+[VS19]: https://visualstudio.microsoft.com/downloads/
+
 
 ![Razubi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Razubi&show_icons=true&theme=dracula)
 
