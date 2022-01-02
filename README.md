@@ -63,5 +63,5 @@
 
 
 ![Razubi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Razubi&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Razubi&theme=dracula&show_icons=true&theme=buefy&layout=compact&langs_count=8&hide=C&exclude_repo=Rustfish)](https://github.com/Razubi/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Razubi&theme=dracula&show_icons=true&theme=buefy&layout=compact&langs_count=8&hide=C&exclude_repo=RazubiPortfolio)](https://github.com/Razubi/)
 
