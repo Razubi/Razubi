@@ -20,12 +20,6 @@
 
 
 
-### 📕 Latest Personal Projects 
-
-<!-- BLOG-POST-LIST:START -->
-- [Portfolio Site](https://github.com/Razubi/RazubiPortfolio)
-- [Razberry OS](https://github.com/Razubi/RazberryOS)
-
 <!-- BLOG-POST-LIST:END -->
 
 <!-- REC-POST-LIST:START -->
