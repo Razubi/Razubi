@@ -5,8 +5,8 @@
 
 - 🌱 I’m currently learning C, Rust And TypeScript.
 - 👯 I’m looking to collaborate with other Developers.
-- 🥅 2022 Goals: Work More On Razberry OS.
-- ⚡ Fun fact: I like Basketball And Rust Programming.
+- 🥅 2022 Goals: Work More On Robin.
+- ⚡ Fun fact: I like Basketball And Web Development.
 
 
 ### 👽 Languages and Tools:
@@ -18,9 +18,6 @@
 - [MongoDB][mongo]
 - [Visual Studio 19][VS19]
 
-
-
-<!-- BLOG-POST-LIST:END -->
 
 <!-- REC-POST-LIST:START -->
 ### 🤖 Other Cool Projects 
