@@ -45,8 +45,3 @@
 [mongo]: https://www.mongodb.com/
 [VS19]: https://visualstudio.microsoft.com/downloads/
 
-
-![Razubi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Razubi&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Razubi&theme=dracula&layout=compact)
-
-
